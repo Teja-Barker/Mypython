@@ -1,1 +1,2 @@
-print(teja)
+print("teja")
+print("barker")
